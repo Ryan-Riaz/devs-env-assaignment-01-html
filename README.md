@@ -2,4 +2,4 @@
 
 #### simple html website only
 
-### [See Live]([I'm an inline-style link](https://www.google.com))
+### [See Live Here] (https://ryan-riaz.github.io/devs-env-assaignment-01-html/)
